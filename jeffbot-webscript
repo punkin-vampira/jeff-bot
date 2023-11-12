@@ -1,1 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Página Web</title>
+</head>
+<body>
 
+    <h1>Bienvenido a Mi Página Web</h1>
+
+    <!-- Botón de Autorización Discord -->
+    <a href="<https://discord.com/api/oauth2/authorize?client_id=1173035452987625553&permissions=8&scope=bot%20applications.commands>" target="_blank">
+        <button>Autorizar Bot en Discord</button>
+    </a>
+
+</body>
+</html>
